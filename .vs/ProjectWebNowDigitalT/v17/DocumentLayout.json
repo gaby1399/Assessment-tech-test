@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practicas\\ProjectWebNowDigitalT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\businesslogic\\logic\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\businesslogic\\logic\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0EEAA3-2E60-4AE8-ABB5-DEF42480DC11}|DataAccess\\DataAccess.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\dataaccess\\db\\imagedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0EEAA3-2E60-4AE8-ABB5-DEF42480DC11}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\db\\imagedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0EEAA3-2E60-4AE8-ABB5-DEF42480DC11}|DataAccess\\DataAccess.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\dataaccess\\db\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0EEAA3-2E60-4AE8-ABB5-DEF42480DC11}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\db\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\businesslogic\\repository\\repositoryimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repository\\repositoryimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\businesslogic\\json\\jsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\json\\jsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\web\\utils\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|solutionrelative:web\\utils\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\businesslogic\\repository\\irepositoryimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repository\\irepositoryimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\businesslogic\\json\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A9057-4CC5-40BB-8903-ABABF5F90D88}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\json\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|E:\\Practicas\\ProjectWebNowDigitalT\\web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|solutionrelative:web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|e:\\practicas\\projectwebnowdigitalt\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC3536-81C6-4A35-BA98-B3DC0819C0F1}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Logic\\User.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Logic\\User.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Logic\\User.cs",
+              "RelativeToolTip": "BusinessLogic\\Logic\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:05:36.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\DataAccess\\DB\\Conexion.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DB\\Conexion.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\DataAccess\\DB\\Conexion.cs",
+              "RelativeToolTip": "DataAccess\\DB\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:44:21.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryImage.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Repository\\RepositoryImage.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repository\\RepositoryImage.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Repository\\RepositoryImage.cs",
+              "RelativeToolTip": "BusinessLogic\\Repository\\RepositoryImage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:40:14.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Image.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Logic\\Image.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Logic\\Image.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Logic\\Image.cs",
+              "RelativeToolTip": "BusinessLogic\\Logic\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:41:10.612Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T17:41:36.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageDB.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\DataAccess\\DB\\ImageDB.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DB\\ImageDB.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\DataAccess\\DB\\ImageDB.cs",
+              "RelativeToolTip": "DataAccess\\DB\\ImageDB.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:44:38.615Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonFile.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Json\\JsonFile.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Json\\JsonFile.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Json\\JsonFile.cs",
+              "RelativeToolTip": "BusinessLogic\\Json\\JsonFile.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:36:23.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "db.json",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Utils\\db.json",
+              "RelativeDocumentMoniker": "Web\\Utils\\db.json",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Utils\\db.json",
+              "RelativeToolTip": "Web\\Utils\\db.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T19:59:49.814Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:44:50.649Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Web\\Global.asax.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\Web\\Global.asax.cs",
+              "RelativeToolTip": "Web\\Global.asax.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:02:58.661Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonService.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Json\\JsonService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Json\\JsonService.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Json\\JsonService.cs",
+              "RelativeToolTip": "BusinessLogic\\Json\\JsonService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:46:24.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryImage.cs",
+              "DocumentMoniker": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Repository\\IRepositoryImage.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repository\\IRepositoryImage.cs",
+              "ToolTip": "E:\\Practicas\\ProjectWebNowDigitalT\\BusinessLogic\\Repository\\IRepositoryImage.cs",
+              "RelativeToolTip": "BusinessLogic\\Repository\\IRepositoryImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:39:57.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
